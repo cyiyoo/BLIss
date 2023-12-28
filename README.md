@@ -5,8 +5,7 @@
 
 # Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction
 
-  Demo MATLAB Code for *Optica Optics Express (OE) Feature Issue* <br>
-  *3D Image Acquisition and Display: Technology, Perception and Applications* <br>
+  Demo MATLAB Code for *Optica Optics Express (OE) Feature Issue 3D Image Acquisition and Display: Technology, Perception and Applications* <br>
   **Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction** <br>
   Yiyao Zhang<sup>1,2,3</sup>, Ke Chen<sup>3,4</sup>, and Shang-Hua Yang<sup>1,5</sup> <be>
   > <sup>1</sup> Institute of Electronics Engineering, National Tsing Hua University, Hsinchu, 30013, Taiwan <br>
