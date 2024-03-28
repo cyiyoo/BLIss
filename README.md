@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/MATLAB-R2024a_or_later-orange.svg)](https://www.mathworks.com/)
 [![DOI:OE.510670](https://zenodo.org/badge/DOI/OE.510670.svg)](https://doi.org/10.1364/OE.510670)
-[![DOI:arXiv:TBD](https://zenodo.org/badge/DOI/arXiv:TBD.svg)](https://arxiv.org/abs/TBD)
+[![DOI:arXiv:TBD](https://zenodo.org/badge/DOI/arXiv:2403.18776.svg)](https://arxiv.org/abs/2403.18776)
 [![DOI:OE.Supp](https://zenodo.org/badge/DOI/OE.Supp.svg)](https://doi.org/10.6084/m9.figshare.24455206)
 
 # Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction
